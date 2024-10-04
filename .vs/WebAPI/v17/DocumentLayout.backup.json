@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|c:\\users\\student\\documents\\finalday\\angulartaskmanager-master\\webapi\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|solutionrelative:services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|c:\\users\\student\\documents\\finalday\\angulartaskmanager-master\\webapi\\models\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|solutionrelative:models\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|c:\\users\\student\\documents\\finalday\\angulartaskmanager-master\\webapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|c:\\users\\student\\documents\\finalday\\angulartaskmanager-master\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|c:\\users\\student\\documents\\finalday\\angulartaskmanager-master\\webapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|c:\\users\\student\\documents\\finalday\\angulartaskmanager-master\\webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|c:\\users\\student\\documents\\finalday\\angulartaskmanager-master\\webapi\\latestlogin.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|solutionrelative:latestlogin.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|c:\\users\\student\\documents\\finalday\\angulartaskmanager-master\\webapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|solutionrelative:models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|c:\\users\\student\\documents\\finalday\\angulartaskmanager-master\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|c:\\users\\student\\documents\\finalday\\angulartaskmanager-master\\webapi\\task.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|solutionrelative:task.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|c:\\users\\student\\documents\\finalday\\angulartaskmanager-master\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|c:\\users\\student\\documents\\finalday\\angulartaskmanager-master\\webapi\\models\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|solutionrelative:models\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|c:\\users\\student\\documents\\finalday\\angulartaskmanager-master\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|c:\\users\\student\\documents\\finalday\\angulartaskmanager-master\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8E9690E1-8805-41D5-8AEF-8BFA21F78408}|WebAPI.csproj|solutionrelative:webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwCcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:34:45.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:44:24.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:36:13.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "latestLogin.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\latestLogin.json",
+              "RelativeDocumentMoniker": "latestLogin.json",
+              "ToolTip": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\latestLogin.json",
+              "RelativeToolTip": "latestLogin.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T15:38:08.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:50:31.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserTask.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Models\\UserTask.cs",
+              "RelativeDocumentMoniker": "Models\\UserTask.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Models\\UserTask.cs",
+              "RelativeToolTip": "Models\\UserTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:51:09.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\services\\TaskService.cs",
+              "RelativeDocumentMoniker": "services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\services\\TaskService.cs",
+              "RelativeToolTip": "services\\TaskService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:43:37.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\services\\UserService.cs",
+              "RelativeDocumentMoniker": "services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\services\\UserService.cs",
+              "RelativeToolTip": "services\\UserService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:43:05.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "task.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\task.json",
+              "RelativeDocumentMoniker": "task.json",
+              "ToolTip": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\task.json",
+              "RelativeToolTip": "task.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T09:13:22.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Models\\UserDto.cs",
+              "RelativeToolTip": "Models\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:38:17.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T09:38:50.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Models\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Models\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\Models\\UserLoginDto.cs",
+              "RelativeToolTip": "Models\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:50:52.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T14:06:53.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\FinalDay\\AngularTaskManager-master\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T13:54:57.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

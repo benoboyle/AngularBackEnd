@@ -1,0 +1,32 @@
+[
+  {
+    "UserId": 0,
+    "Username": "benoboyle",
+    "PasswordHash": "42+VyvpI9+eQEvMTgwfltGH5C8gkQYCOqXfOJ8Cw+w8nDYGbmD/gy6UfyUcaDFwxJxphVqbOif5gZjHb0q3PGA==",
+    "Salt": "5AFgN1siD182Fdg0743LR7HlsLYNLW/gSxdDcR+gnGTxBxo0d6bmQgT2/C9Il9N4eLXaKpT51t9062SMwfJm1sKk22gCjg9p36OrZuD8NXf94+190S2TyebeD63mXS3+belU/beWwpM54xZXw2LWJWtXrDJGbL5KcnNFQVOaV+U="
+  },
+  {
+    "UserId": 0,
+    "Username": "jack",
+    "PasswordHash": "ZNrKNPhPYjlAcGW5a4ZhKie6xNT8HfCTsiq42+i0AgUdeDvgHt2hFrb9EeuQu2n95iaaEdt8CudtQHTlGruZtA==",
+    "Salt": "wWE2QA/zeM1eZ3IB6MJdNS0/bUSwuI9kmhE0IFKxt1RxZso6rWJA4U85RAMC820uM3ijhdejuH43g/4ylLyVq2gRr5+h912OuFbd/weYOdS0gNynitzca/bbFDNKIOtLeuAymwg6jcBhQDs9ILEIr6cCEeeTI6QKch5b1FdDy/w="
+  },
+  {
+    "UserId": 0,
+    "Username": "benno",
+    "PasswordHash": "1Q/dBSlBkvNqYj98qxSotGGiV3eXpEpdCr9RLMWfwv8ghmSWsI4fG/39LCVlPO7FRcu+/tSIn6YRaR/AeJgxKg==",
+    "Salt": "ItQ4WprVNjYj66U2qgv6Zxr/y4e0sUlNUjFukiO2gVnpqwD/Sqxx8TfgoEObQ9+6pwNW0kQZ7Y3oDabMhM5t3m1KluTZBRWvFGlwiA8ghM+q54kswyOmKFBHT37mBf2MOn+vtHh5du+Y7yRnCi4WooMcLarSDG9vO0/3+CTQp9E="
+  },
+  {
+    "UserId": 0,
+    "Username": "newuser",
+    "PasswordHash": "2Ou1PRWBTR7dJ/aEHaBzjc0/SmtItvCWJWPfESJGIEc6yd0BXzt9u2SDgAxcg4emvYaA51EwBTXSrgdO64cVSA==",
+    "Salt": "RnvzPkYeoarRvSsh+oFz1bGxWp8dQQnJ2qINHocklVKhSl+6Oz0BPtKK4+ggSmZGIqaRL7gBKbUpmAspXVRaAkx1dVd+3vvEq8gC5O6p0iYCIQP3Cn5E0YH5QIX8ffM96a2SDWPF4LDrp03x5rxDQCBuKAvbHlSe0HC081Bv1VI="
+  },
+  {
+    "UserId": 0,
+    "Username": "boyle",
+    "PasswordHash": "ozUezdd9Zxk8aKjgHkcOg/4boPn5xFblljI1u2sJQTT6bwF+U9FK4BBPRz9eAsp8IKlu0HFhDv3fkBm0++ziWg==",
+    "Salt": "Ua7iGJlThKB6pzdjjlDj7vuIEoYCWW/KZiRF3coJut6EMGSRJ7C5VuvgKMGyleSMZVo4m06B8xauANARHB7noUI4GPxH/PcgLYXLxUsH4bVUgzBPjsrwDNhG3WNpU+TuT7w0oMvw5kthqTaaRobx1BQ3FX4OHCQYV3OBLBpRcgE="
+  }
+]
